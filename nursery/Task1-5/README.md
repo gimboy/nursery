@@ -38,12 +38,9 @@ gimboy@gb-linux:~$ mv Animals Friends_man
 
 **2.** 
 - Создать директорию, переместить файл туда.
-```
+
 gimboy@linux:~$ mkdir Animal
 gimboy@linux:~$ mv Friends_man Animal
-```
-
-____
 **3.** 
 - Подключить дополнительный репозиторий ***MySQL***. 
 - Установить любой пакет из этого репозитория.
